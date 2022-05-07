@@ -1,0 +1,23 @@
+{
+  "name": "demo_pb_33",
+  "version": "1.0.0",
+  "description": "Demo Clase Programacion Backend NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XebaX19/demo_pb_33.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XebaX19/demo_pb_33/issues"
+  },
+  "homepage": "https://github.com/XebaX19/demo_pb_33#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
